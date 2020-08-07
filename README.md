@@ -1,5 +1,6 @@
 # CourseraWork
 Here, I will be posting work related to my Coursera work
+
 8/8/2020 Saturday - The references for the datasets will be added here until the final report is updated.
 
 [1] https://www.splcenter.org/fighting-hate/extremist-files/group/white-lives-matter
