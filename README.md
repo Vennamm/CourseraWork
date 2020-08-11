@@ -11,4 +11,6 @@ Here, I will be posting work related to my Coursera work
 
 [4] https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-detail.html
 
+<blockquote> You can find the collage geomap images here: 
 
+<a href="//imgur.com/a/LDF5CAM">US_Racism_VV</a></blockquote>
